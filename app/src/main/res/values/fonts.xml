@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ui_text_bold">SF-UI-Text-Bold.otf</string>
+    <string name="ui_text_light">SF-UI-Text-Light.otf</string>
+    <string name="ui_text_light_italic">SF-UI-Text-LightItalic.otf</string>
+    <string name="ui_text_regular">SF-UI-Text-Regular.otf</string>
+</resources>
